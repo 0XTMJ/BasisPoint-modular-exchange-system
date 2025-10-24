@@ -67,3 +67,6 @@ fi
 echo "Failed to install Node.js automatically"
 exit 1
 
+
+
+
